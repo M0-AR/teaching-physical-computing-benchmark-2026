@@ -1,0 +1,23 @@
+services:
+  research:
+    build: .
+    container_name: pcb-benchmark
+    volumes:
+      - ./results:/work/results
+      - ./data:/work/data
+    environment:
+      - PYTHONPATH=/work/src
+      - OPENALEX_EMAIL=pcb-benchmark@research.local
+    command: python experiments/06_reproduce_all.py
+
+  notebook:
+    build: .
+    container_name: pcb-notebook
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./:/work
+    environment:
+      - PYTHONPATH=/work/src
+    command: jupyter notebook --ip=0.0.0.0 --port=8888 --no-browser --allow-root --NotebookApp.token=''
+    profiles: ["notebook"]

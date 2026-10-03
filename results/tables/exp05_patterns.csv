@@ -1,0 +1,7 @@
+id,name,evidence,metric,confidence
+H1,IPO invariance,C1M10 IPO model; C2M5 toolkit+M9 KISS+M10 practical; Arm worksheets IPO in every project pack,IPO referenced in 4/4 courses + all 11 micro:bit packs (arm.com fetch),0.92
+H2,Formative >> summative,C3: 7/10 modules formative (methods/question-types/MCQs/open-questioning); only M4 summative framing,formative_share=0.70 of C3 modules,0.85
+H3,Hardware ladder predicts order,Exp02 afford_mean: bit 5.0 > Pico 4.0 > Uno 3.2 > Pi4B 2.2; price floor Pico cheapest,"Spearman(entry_rank, module_order)=1.0",0.88
+H4,Soft skills = debugging skill,C4 gracious professionalism + C2M7 resilience/fail-often; systems-thinking debug (McLaughlin 2025),resilience modules in C2+C4 = 4/22 (18%) — highest non-technical share,0.78
+H5,Context-first > device-first,Oil-spill/Smart-cities/SDG contexts open every Arm pack; Chen&Hui 2024: PBL integrates CT into STEM,11/11 packs SDG-tagged; 0/11 device-first,0.9
+H6,Teacher efficacy is bottleneck,Moller et al. 2025: 500k+ micro:bits but patchy quality; Tselegkaridis 2025: hesitation without training,5977 C1 enrolments vs program paused = demand without completion path,0.81

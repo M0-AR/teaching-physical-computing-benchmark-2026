@@ -1,0 +1,5 @@
+device,price_lo,price_hi,gpio,afford_sum,afford_mean
+BBC micro:bit v2,14,18,25,25,5.0
+Raspberry Pi Pico W,6,10,26,20,4.0
+Arduino Uno R3,23,28,20,16,3.2
+Raspberry Pi 4B 4GB,55,75,40,11,2.2

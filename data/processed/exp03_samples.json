@@ -1,0 +1,24 @@
+{
+  "queries": [
+    "physical computing education microbit Arduino",
+    "project-based learning STEM assessment",
+    "computational thinking project-based learning STEM"
+  ],
+  "rows": [
+    {
+      "query": "physical computing education microbit Arduino",
+      "openalex_total": 97,
+      "crossref_total": 8243930
+    },
+    {
+      "query": "project-based learning STEM assessment",
+      "openalex_total": 645312,
+      "crossref_total": 12194169
+    },
+    {
+      "query": "computational thinking project-based learning STEM",
+      "openalex_total": 80808,
+      "crossref_total": 11710131
+    }
+  ]
+}

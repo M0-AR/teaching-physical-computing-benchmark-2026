@@ -1,0 +1,203 @@
+{
+  "stackexchange": {
+    "arduino": {
+      "total_reported": null,
+      "quota": 296,
+      "items": 5
+    },
+    "raspberry-pi": {
+      "total_reported": null,
+      "quota": 295,
+      "items": 5
+    },
+    "microbit": {
+      "total_reported": null,
+      "quota": 294,
+      "items": 0
+    },
+    "raspberry-pi-pico": {
+      "total_reported": null,
+      "quota": 293,
+      "items": 5
+    }
+  },
+  "worldbank_raw": [
+    {
+      "page": 1,
+      "pages": 7,
+      "per_page": 10,
+      "total": 66,
+      "sourceid": "2",
+      "lastupdated": "2026-07-13"
+    },
+    [
+      {
+        "indicator": {
+          "id": "SE.TER.ENRR",
+          "value": "School enrollment, tertiary (% gross)"
+        },
+        "country": {
+          "id": "GB",
+          "value": "United Kingdom"
+        },
+        "countryiso3code": "GBR",
+        "date": "2025",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SE.TER.ENRR",
+          "value": "School enrollment, tertiary (% gross)"
+        },
+        "country": {
+          "id": "GB",
+          "value": "United Kingdom"
+        },
+        "countryiso3code": "GBR",
+        "date": "2024",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SE.TER.ENRR",
+          "value": "School enrollment, tertiary (% gross)"
+        },
+        "country": {
+          "id": "GB",
+          "value": "United Kingdom"
+        },
+        "countryiso3code": "GBR",
+        "date": "2023",
+        "value": 80.4146499633789,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SE.TER.ENRR",
+          "value": "School enrollment, tertiary (% gross)"
+        },
+        "country": {
+          "id": "GB",
+          "value": "United Kingdom"
+        },
+        "countryiso3code": "GBR",
+        "date": "2022",
+        "value": 79.7695083618164,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SE.TER.ENRR",
+          "value": "School enrollment, tertiary (% gross)"
+        },
+        "country": {
+          "id": "GB",
+          "value": "United Kingdom"
+        },
+        "countryiso3code": "GBR",
+        "date": "2021",
+        "value": 76.7543563842773,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SE.TER.ENRR",
+          "value": "School enrollment, tertiary (% gross)"
+        },
+        "country": {
+          "id": "GB",
+          "value": "United Kingdom"
+        },
+        "countryiso3code": "GBR",
+        "date": "2020",
+        "value": 69.4076614379883,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SE.TER.ENRR",
+          "value": "School enrollment, tertiary (% gross)"
+        },
+        "country": {
+          "id": "GB",
+          "value": "United Kingdom"
+        },
+        "countryiso3code": "GBR",
+        "date": "2019",
+        "value": 65.5119934082031,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SE.TER.ENRR",
+          "value": "School enrollment, tertiary (% gross)"
+        },
+        "country": {
+          "id": "GB",
+          "value": "United Kingdom"
+        },
+        "countryiso3code": "GBR",
+        "date": "2018",
+        "value": 61.1377716064453,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SE.TER.ENRR",
+          "value": "School enrollment, tertiary (% gross)"
+        },
+        "country": {
+          "id": "GB",
+          "value": "United Kingdom"
+        },
+        "countryiso3code": "GBR",
+        "date": "2017",
+        "value": 59.6282081604004,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SE.TER.ENRR",
+          "value": "School enrollment, tertiary (% gross)"
+        },
+        "country": {
+          "id": "GB",
+          "value": "United Kingdom"
+        },
+        "countryiso3code": "GBR",
+        "date": "2016",
+        "value": 58.083869934082,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      }
+    ]
+  ],
+  "program": {
+    "c1_learners_snapshot": 5977,
+    "list_price_usd": 196.0,
+    "discount_price_usd": 176.4,
+    "discount_code": "SUCCESS2026",
+    "status": "program unavailable for purchase; courses open Oct03-2027Jul31"
+  }
+}

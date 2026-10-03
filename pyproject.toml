@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pcb-benchmark"
+version = "1.0.0"
+description = "Teaching with Physical Computing: reproducible benchmark from zero to hero"
+requires-python = ">=3.10"
+dependencies = ["numpy", "pandas", "matplotlib", "requests", "scipy", "scikit-learn", "pyyaml"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
